@@ -32,7 +32,7 @@ plug in the esp via usb and create a new device. Prepare for first use.
 
 After succesfull installation your device should be noticed online, hit edit.
 
-Copy and paste following to you file right after the ESP section:
+Copy and paste (in code mode) following to you file right after the ESP section:
 
 uart:
   id: mod_uart
