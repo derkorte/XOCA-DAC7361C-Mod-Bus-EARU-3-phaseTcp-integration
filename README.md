@@ -33,7 +33,7 @@ plug in the esp via usb and create a new device. Prepare for first use.
 After succesfull installation your device should be noticed online, hit edit.
 
 Copy and paste (in code mode) following to you file right after the ESP section:
-
+'
 uart:
   id: mod_uart
   tx_pin: GPIO3
@@ -531,7 +531,7 @@ sensor:
     accuracy_decimals: 2
     filters:
       - multiply: 0.01
-
+'
 
 Hit SAVE then INSTALL -> ready to watch the magic!
 Navigate to devices and configure the new detected device. Finish
